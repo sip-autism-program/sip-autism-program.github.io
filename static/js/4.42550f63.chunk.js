@@ -1,0 +1,2 @@
+(this["webpackJsonpflip-card-game"]=this["webpackJsonpflip-card-game"]||[]).push([[4],{241:function(i,p,a){i.exports=a.p+"static/media/iconChild.d54f3783.svg"}}]);
+//# sourceMappingURL=4.42550f63.chunk.js.map
